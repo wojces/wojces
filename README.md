@@ -33,9 +33,9 @@ I am ambitious, consistent and not afraid of challenges
 
 ### Projects
 
-projekt 1 
-projekt 2
-projekt 3
+1. Appilikula - https://wojces.github.io/appilikula/
+2. Window Store - https://wojces.github.io/ces-store/
+3. Todo List - https://wojces.github.io/ces-todo-list/
 
 
 
