@@ -1,4 +1,4 @@
-## Wojciech Cesnyka ✋
+## Hi, I'm Wojtek ✋
 
 **`I'm learning to become frontend developer`**
 
@@ -37,21 +37,10 @@ I like to take on challenges and continue my learning.
 2. Window Store - https://wojces.github.io/ces-store/
 3. Todo List - https://wojces.github.io/ces-todo-list/
 
+#
 
+### Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojces)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**wojces/wojces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
