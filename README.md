@@ -33,6 +33,10 @@ I like to take on challenges and continue my learning.
 
 ### Projects
 
+**`React`**
+1. Oxytimer
+
+**`Vue`**
 1. Appilikula - https://wojces.github.io/appilikula/
 2. Window Store - https://wojces.github.io/ces-store/
 3. Todo List - https://wojces.github.io/ces-todo-list/
