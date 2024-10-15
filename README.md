@@ -47,6 +47,7 @@ I like to take on challenges and continue my learning.
 3. Drum Machine
 4. JavaScript Calculator
 5. 25 + 5 Clock
+6. [Password Input](https://wojces.github.io/Password-Input/)
 
 #
 
