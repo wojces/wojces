@@ -41,6 +41,13 @@ I like to take on challenges and continue my learning.
 2. [Window Store](https://wojces.github.io/ces-store/)
 3. [Todo List](https://wojces.github.io/ces-todo-list/)
 
+**`JS`**
+1. Random Quote Machine
+2. Markdown Previewer
+3. Drum Machine
+4. JavaScript Calculator
+5. 25 + 5 Clock
+
 #
 
 ### Stats
