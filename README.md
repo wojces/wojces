@@ -42,7 +42,7 @@ I like to take on challenges and continue my learning.
 3. [Todo List](https://wojces.github.io/ces-todo-list/)
 
 **`JS`**
-1. Random Quote Machine
+1. [Random Quote Machine](https://wojces.github.io/random-quote-machine/)
 2. Markdown Previewer
 3. Drum Machine
 4. JavaScript Calculator
