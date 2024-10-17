@@ -34,7 +34,7 @@ I like to take on challenges and continue my learning.
 ### Projects
 
 **`React`**
-1. [Oxytimer](https://oxytimer.pl/app/)
+1. [Oxytimer](https://oxytimer.pl/)
 
 **`Vue`**
 1. [Appilikula](https://wojces.github.io/appilikula/)
