@@ -46,7 +46,7 @@ I like to take on challenges and continue my learning.
 2. [Markdown Previewer](https://wojces.github.io/markdown-previewer/)
 3. [Drum Machine](https://wojces.github.io/drum-machine/)
 4. [JavaScript Calculator](https://wojces.github.io/javascript-calculator/)
-5. 25 + 5 Clock
+5. [25 + 5 Clock](https://wojces.github.io/25-5-clock/)
 6. [Password Input](https://wojces.github.io/Password-Input/)
 
 #
