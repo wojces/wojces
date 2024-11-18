@@ -3,7 +3,7 @@
 **`I'm learning to become frontend developer`**
 
 My adventure with programming lasts about 2 years. I started with tutorials on YouTube and Udemy, then I made a dozen or so projects based on other people's examples, and finally I made a few more or less advanced projects of my own.
-I started my adventure with programming in vue js, but now I focused on react and I did my biggest project there.
+I started my adventure with programming in Vue.js, but now I focused on React and I did my biggest project there.
 I like to take on challenges and continue my learning.
 
 ---
