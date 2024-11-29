@@ -34,7 +34,7 @@ I like to take on challenges and continue my learning.
 ### Projects
 
 **`React`**
-1. [Oxytimer](https://oxytimer.pl/) - The application code is stored in a private repository. The application consists of a showcase website written in HTML, a frontend written in React available after logging in, and a backend written in Express. In this web application, I used various libraries. For the frontend, these included Bootstrap, Axios, Day.js, Howler, Redux, and React Router. For the backend, I used Nodemon, MySQL, MongoDB, JWT.io, bcrypt, html-pdf-node, and Handlebars.
+1. [Oxytimer](https://github.com/wojces/oxytimer) - The application consists of a showcase website written in HTML, a frontend written in React available after logging in, and a backend written in Express. In this web application, I used various libraries. For the frontend, these included Bootstrap, Axios, Day.js, Howler, Redux, and React Router. For the backend, I used Nodemon, MySQL, MongoDB, JWT.io, bcrypt, html-pdf-node, and Handlebars.
 
 **`Vue`**
 1. [Appilikula](https://wojces.github.io/appilikula/)
