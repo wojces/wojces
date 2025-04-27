@@ -1,10 +1,17 @@
 ## Hi, I'm Wojtek ✋
 
-**`I'm learning to become frontend developer`**
+**`Junior Full Stack Developer`**
 
-My adventure with programming lasts about 2 years. I started with tutorials on YouTube and Udemy, then I made a dozen or so projects based on other people's examples, and finally I made a few more or less advanced projects of my own.
-I started my adventure with programming in Vue.js, but now I focused on React and I did my biggest project there.
-I like to take on challenges and continue my learning.
+I have recently started working as a web developer, creating web applications in React with Redux for state management. My main focus is on efficient communication with the backend, optimal interface updates, and the visual layer of the application. I also develop backends in Node.js using Express.js, where I have implemented functionalities such as user authentication (including Google and Facebook login) and email-based password recovery. While working on backends, I have used databases like PostgreSQL, MySQL, and MongoDB to store data in various formats. For user authentication, I utilized JWT tokens. Additionally, I have experience generating PDF files based on data collected from the user interface.
+
+My programming journey began in September 2022. I started by watching tutorials on YouTube and later moved on to courses on Udemy. As a next step, I applied the knowledge I gained by creating projects. One of these projects was OxyTimer – an application built with React and a Node.js backend. This project allowed me to plan and execute a real-world application from scratch, including actively participating in deploying it to a server.
+
+During my learning process, I completed two courses on Udemy, which are confirmed by certificates: 
+  [React](https://www.udemy.com/certificate/UC-1b627584-2831-4122-b5a6-d701c967e4a8/)
+  [Vue](https://www.udemy.com/certificate/UC-f58cd2ff-a752-4d49-a7ea-06614b5b7add/)
+  
+My next goals are to finish the Node.js course (currently in progress) and to complete a course on TypeScript.
+
 
 ---
 
