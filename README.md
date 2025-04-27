@@ -7,10 +7,12 @@ I have recently started working as a web developer, creating web applications in
 My programming journey began in September 2022. I started by watching tutorials on YouTube and later moved on to courses on Udemy. As a next step, I applied the knowledge I gained by creating projects. One of these projects was OxyTimer – an application built with React and a Node.js backend. This project allowed me to plan and execute a real-world application from scratch, including actively participating in deploying it to a server.
 
 During my learning process, I completed two courses on Udemy, which are confirmed by certificates: 
-  [React](https://www.udemy.com/certificate/UC-1b627584-2831-4122-b5a6-d701c967e4a8/)
+  [React](https://www.udemy.com/certificate/UC-1b627584-2831-4122-b5a6-d701c967e4a8/) and 
   [Vue](https://www.udemy.com/certificate/UC-f58cd2ff-a752-4d49-a7ea-06614b5b7add/)
   
 My next goals are to finish the Node.js course (currently in progress) and to complete a course on TypeScript.
+
+
 
 
 ---
