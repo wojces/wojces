@@ -1,6 +1,6 @@
 ## Hi, I'm Wojtek ✋
 
-**`Junior Full Stack Developer`**
+**`Junior Frontend Developer`**
 
 I have recently started working as a web developer, creating web applications in React with Redux for state management. My main focus is on efficient communication with the backend, optimal interface updates, and the visual layer of the application. I also develop backends in Node.js using Express.js, where I have implemented functionalities such as user authentication (including Google and Facebook login) and email-based password recovery. While working on backends, I have used databases like PostgreSQL, MySQL, and MongoDB to store data in various formats. For user authentication, I utilized JWT tokens. Additionally, I have experience generating PDF files based on data collected from the user interface.
 
