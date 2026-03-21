@@ -1,48 +1,58 @@
 ## Hi, I'm Wojtek ✋
 
-**`Junior Frontend Developer`**
+**`Junior Fullstack Developer (React & Node.js)`**
 
-I have recently started working as a web developer, creating web applications in React with Redux for state management. My main focus is on efficient communication with the backend, optimal interface updates, and the visual layer of the application. I also develop backends in Node.js using Express.js, where I have implemented functionalities such as user authentication (including Google and Facebook login) and email-based password recovery. While working on backends, I have used databases like PostgreSQL, MySQL, and MongoDB to store data in various formats. For user authentication, I utilized JWT tokens. Additionally, I have experience generating PDF files based on data collected from the user interface.
+I build web applications from the UI to the database. I have 2+ years of commercial experience — 
+I independently delivered a full production platform (React 19, Express.js, PostgreSQL) with 
+Przelewy24 payment integration, OAuth 2.0, and RS256 JWT authentication. I'm also comfortable 
+with VPS deployment: Nginx configuration, process management, and GitHub-based deployments.
 
-My programming journey began in September 2022. I started by watching tutorials on YouTube and later moved on to courses on Udemy. As a next step, I applied the knowledge I gained by creating projects. One of these projects was OxyTimer – an application built with React and a Node.js backend. This project allowed me to plan and execute a real-world application from scratch, including actively participating in deploying it to a server.
+My programming journey started in September 2022 with self-directed learning. Since then I've 
+worked as a Programming Intern at e-Orzecznik, where I built OxyTimer — a real-time rescue 
+operations tracker for firefighters (React + Node.js, MySQL + MongoDB). Currently I work as a 
+Junior Fullstack Developer at KGNS Systems, where I delivered a complete platform including a 
+visual finite state machine editor for an AI agent runtime (React Flow).
 
-During my learning process, I completed two courses on Udemy, which are confirmed by certificates: 
-  [React](https://www.udemy.com/certificate/UC-1b627584-2831-4122-b5a6-d701c967e4a8/) , 
-  [Vue](https://www.udemy.com/certificate/UC-f58cd2ff-a752-4d49-a7ea-06614b5b7add/)
-
-My next goals are to finish the Node.js course (currently in progress) and to complete a course on TypeScript.
+Udemy certificates:
+[React](https://www.udemy.com/certificate/UC-1b627584-2831-4122-b5a6-d701c967e4a8/) ,
+[Node.js](https://www.udemy.com/certificate/UC-818225a2-db5d-4b25-a529-2d6d3b32b206/) ,
+[Vue](https://www.udemy.com/certificate/UC-f58cd2ff-a752-4d49-a7ea-06614b5b7add/)
 
 <br />
 
 ---
 
-### Languages and Tools 
+### Languages and Tools
 
-
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />    
+<!-- Frontend -->
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" />   
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<!-- Backend -->
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+<!-- Tools -->
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br />
 
 #
 
 ### Projects
 
-**`React`**
-1. [Oxytimer](https://github.com/wojces/oxytimer) - [www.oxytimer.pl](https://oxytimer.pl/)
+**`Fullstack`**
+1. [Oxytimer](https://github.com/wojces/oxytimer) - [www.oxytimer.pl](https://oxytimer.pl/) — Real-time rescue operations tracker for firefighters (React 18, Node.js, MySQL + MongoDB)
 
 **`Vue`**
 1. [Appilikula](https://wojces.github.io/appilikula/)
@@ -61,6 +71,6 @@ My next goals are to finish the Node.js course (currently in progress) and to co
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojces)](https://github.com/anuraghazra/github-readme-stats)
+[![Wojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojces)](https://github.com/anuraghazra/github-readme-stats)
 
 #
