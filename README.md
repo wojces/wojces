@@ -69,8 +69,5 @@ Udemy certificates:
 
 #
 
-### Stats
-
-[![Wojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojces&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-#
+> 💼 Most of my commercial work lives in private company repositories —
+> the commit count above doesn't reflect the full picture.
