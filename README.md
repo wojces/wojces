@@ -69,8 +69,8 @@ Udemy certificates:
 
 #
 
-> 💼 Most of my commercial work lives in private company repositories —
-> the commit count above doesn't reflect the full picture.
+💼 Most of my commercial work lives in private company repositories —
+the commit count above doesn't reflect the full picture.
 
 ### Stats
 
