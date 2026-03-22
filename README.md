@@ -10,8 +10,11 @@ with VPS deployment: Nginx configuration, process management, and GitHub-based d
 My programming journey started in September 2022 with self-directed learning. Since then I've 
 worked as a Programming Intern at e-Orzecznik, where I built OxyTimer — a real-time rescue 
 operations tracker for firefighters (React + Node.js, MySQL + MongoDB). Currently I work as a 
-Junior Fullstack Developer at KGNS Systems, where I delivered a complete platform including a 
-visual finite state machine editor for an AI agent runtime (React Flow).
+Junior Fullstack Developer at KGNS Systems, where I delivered a complete platform described in 
+the first paragraph and developed a frontend for AI chat platform including a visual finite 
+state machine editor for an AI agent runtime (React Flow) along with the API documentation for 
+the platform.
+
 
 Udemy certificates:
 [React](https://www.udemy.com/certificate/UC-1b627584-2831-4122-b5a6-d701c967e4a8/) ,
