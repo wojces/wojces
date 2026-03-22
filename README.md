@@ -47,7 +47,6 @@ Udemy certificates:
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br />
 <br />
-<br />
 
 #
 
