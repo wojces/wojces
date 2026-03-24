@@ -15,9 +15,7 @@ Background in Civil Engineering — transitioned into software development throu
 
 Udemy certificates:
 [React](https://www.udemy.com/certificate/UC-1b627584-2831-4122-b5a6-d701c967e4a8/) ,
-[Node.js](https://www.udemy.com/certificate/UC-818225a2-db5d-4b25-a529-2d6d3b32b206/) ,
-[Vue](https://www.udemy.com/certificate/UC-f58cd2ff-a752-4d49-a7ea-06614b5b7add/)
-
+[Node.js](https://www.udemy.com/certificate/UC-818225a2-db5d-4b25-a529-2d6d3b32b206/) 
 <br />
 
 ---
