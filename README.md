@@ -1,19 +1,16 @@
 ## Hi, I'm Wojtek ✋
 
-**`Junior Fullstack Developer (React & Node.js)`**
+**`Fullstack Developer (React & Node.js)`**
 
 I build web applications from the UI to the database. I have 2+ years of commercial experience — 
 I independently delivered a full production platform (React 19, Express.js, PostgreSQL) with 
-Przelewy24 payment integration, OAuth 2.0, and RS256 JWT authentication. I'm also comfortable 
-with VPS deployment: Nginx configuration, process management, and GitHub-based deployments.
+Przelewy24 payment integration, OAuth 2.0, and RS256 JWT authentication. I'm comfortable owning 
+the full deployment stack: VPS, Nginx, process management, and GitHub-based deployments.
 
-My programming journey started in September 2022 with self-directed learning. Since then I've 
-worked as a Programming Intern at e-Orzecznik, where I built OxyTimer — a real-time rescue 
-operations tracker for firefighters (React + Node.js, MySQL + MongoDB). Currently I work as a 
-Junior Fullstack Developer at KGNS Systems, where I delivered a complete platform described in 
-the first paragraph and developed a frontend for AI chat platform including a visual finite 
-state machine editor for an AI agent runtime (React Flow) along with the API documentation for 
-the platform.
+At e-Orzecznik I built OxyTimer — a real-time rescue operations tracker for firefighters (React + Node.js, MySQL + MongoDB).
+At KGNS Systems I delivered the platform mentioned above and developed the frontend for an AI agent runtime, including a visual finite state machine editor (React Flow) and embedded MDX documentation.
+
+Background in Civil Engineering — transitioned into software development through self-directed learning.
 
 
 Udemy certificates:
