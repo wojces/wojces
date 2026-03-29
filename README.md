@@ -9,7 +9,7 @@ OAuth 2.0, RS256 JWT authentication, and a compiled Elm game engine integrated v
 typed port messaging system. I'm comfortable owning the full deployment stack: VPS, 
 Nginx, process management, and GitHub-based deployments.
 
-At e-Orzecznik I built OxyTimer — a real-time rescue operations tracker for firefighters (React + Node.js, MySQL + MongoDB).
+At e-Orzecznik I built OxyTimer — a real-time rescue operations tracker for firefighters (React + Node.js, MySQL + MongoDB).<br/>
 At KGNS Systems I delivered the platform mentioned above and developed the frontend for an AI agent runtime, including a visual finite state machine editor (React Flow) and embedded MDX documentation. I also explored workflow 
 automation with n8n.
 
@@ -57,21 +57,45 @@ Udemy certificates:
 
 ### Projects
 
-**`Fullstack`**
-1. [Oxytimer](https://github.com/wojces/oxytimer) - [www.oxytimer.pl](https://oxytimer.pl/) — Real-time rescue operations tracker for firefighters (React 18, Node.js, MySQL + MongoDB)
+**`Commercial`**
+- **Omega** (KGNS) — Full production platform for a browser-based narrative RPG. 
+  React 19 + Node.js + PostgreSQL, Przelewy24 payments, OAuth 2.0, RS256 JWT, 
+  Elm game engine integrated via typed port messaging system.
 
-**`Vue`**
+- **Aga-runtime** (KGNS) — Frontend for an AI agent runtime platform. Real-time 
+  LLM chat interface, visual finite state machine editor (React Flow), embedded 
+  MDX docs. React 19 + Redux Toolkit.
+
+**`Personal`**
+- **[Szamba](https://szamba.tojest.dev/)** — Fleet management & route optimization system for a waste 
+  collection company. Automatic order assignment across vehicles based on location + OSRM routing, interactive 
+  Leaflet maps, drag-drop stop reordering, dual-role auth (admin/driver). 
+  React 19 + Node.js + PostgreSQL. *(built with Claude Code)*
+
+- **[Admin Panel](https://ces-ap.netlify.app/)** — Feature-based CMS dashboard 
+  built to practice strict TypeScript and shadcn/ui. TanStack Router, TanStack 
+  Query, Zustand. *(built with Claude Code)*
+
+- **[Antyki](https://ces-antyki.netlify.app/)** — E-commerce SPA with admin panel. 
+  Smart state sync between guest (Zustand) and authenticated (TanStack Query) flows. 
+  React 19 + TypeScript + TanStack Router. *(built with Claude Code)*
+
+- **[OxyTimer](https://github.com/wojces/oxytimer)** — Real-time rescue operations 
+  tracker for firefighters. Monitors air pressure, projects safe exit times, 
+  generates PDF mission reports. React 18 + Node.js + MySQL + MongoDB.
+
+#
+
+**`Old learning projects`**
 1. [Appilikula](https://wojces.github.io/appilikula/)
 2. [Window Store](https://wojces.github.io/ces-store/)
 3. [Todo List](https://wojces.github.io/ces-todo-list/)
-
-**`JS`**
-1. [Random Quote Machine](https://wojces.github.io/random-quote-machine/)
-2. [Markdown Previewer](https://wojces.github.io/markdown-previewer/)
-3. [Drum Machine](https://wojces.github.io/drum-machine/)
-4. [JavaScript Calculator](https://wojces.github.io/javascript-calculator/)
-5. [25 + 5 Clock](https://wojces.github.io/25-5-clock/)
-6. [Password Input](https://wojces.github.io/Password-Input/)
+4. [Random Quote Machine](https://wojces.github.io/random-quote-machine/)
+5. [Markdown Previewer](https://wojces.github.io/markdown-previewer/)
+6. [Drum Machine](https://wojces.github.io/drum-machine/)
+7. [JavaScript Calculator](https://wojces.github.io/javascript-calculator/)
+8. [25 + 5 Clock](https://wojces.github.io/25-5-clock/)
+9. [Password Input](https://wojces.github.io/Password-Input/)
 
 #
 
