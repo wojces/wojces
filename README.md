@@ -9,9 +9,10 @@ OAuth 2.0, RS256 JWT authentication, and a compiled Elm game engine integrated v
 typed port messaging system. I'm comfortable owning the full deployment stack: VPS, 
 Nginx, process management, and GitHub-based deployments.
 
-At e-Orzecznik I built OxyTimer — a real-time rescue operations tracker for firefighters (React + Node.js, MySQL + MongoDB).<br/>
-At KGNS Systems I delivered the platform mentioned above and developed the frontend for an AI agent runtime, including a visual finite state machine editor (React Flow) and embedded MDX documentation. I also explored workflow 
-automation with n8n.
+At KGNS: <br />
+I delivered the platform mentioned above and developed the frontend for an AI agent runtime, including a visual finite state machine editor (React Flow) and embedded MDX documentation. <br />
+I built OxyTimer — a real-time rescue operations tracker for firefighters (React + Node.js, MySQL + MongoDB).<br/>
+I explored workflow automation with n8n.
 
 Currently building a personal project in Next.js (App Router, PostgreSQL, Prisma) — 
 a fullstack platform for an English tutor with blog, newsletter, contact form, and admin 
