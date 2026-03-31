@@ -67,6 +67,10 @@ Udemy certificates:
   MDX docs. React 19 + Redux Toolkit.
 
 **`Personal`**
+- **[OxyTimer](https://github.com/wojces/oxytimer)** — Real-time rescue operations 
+  tracker for firefighters. Monitors air pressure, projects safe exit times, 
+  generates PDF mission reports. React 18 + Node.js + MySQL + MongoDB.
+  
 - **[Szamba](https://szamba.tojest.dev/)** — Fleet management & route optimization system for a waste 
   collection company. Automatic order assignment across vehicles based on location + OSRM routing, interactive 
   Leaflet maps, drag-drop stop reordering, dual-role auth (admin/driver). 
@@ -79,10 +83,6 @@ Udemy certificates:
 - **[Antyki](https://ces-antyki.netlify.app/)** — E-commerce SPA with admin panel. 
   Smart state sync between guest (Zustand) and authenticated (TanStack Query) flows. 
   React 19 + TypeScript + TanStack Router. *(built with Claude Code)*
-
-- **[OxyTimer](https://github.com/wojces/oxytimer)** — Real-time rescue operations 
-  tracker for firefighters. Monitors air pressure, projects safe exit times, 
-  generates PDF mission reports. React 18 + Node.js + MySQL + MongoDB.
 
 #
 
