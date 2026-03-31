@@ -9,7 +9,6 @@ OAuth 2.0, RS256 JWT authentication, and a compiled Elm game engine integrated v
 typed port messaging system. I'm comfortable owning the full deployment stack: VPS, 
 Nginx, process management, and GitHub-based deployments.
 
-At KGNS: <br />
 I delivered the platform mentioned above and developed the frontend for an AI agent runtime, including a visual finite state machine editor (React Flow) and embedded MDX documentation. <br />
 I built OxyTimer — a real-time rescue operations tracker for firefighters (React + Node.js, MySQL + MongoDB).<br/>
 I explored workflow automation with n8n.
@@ -59,11 +58,11 @@ Udemy certificates:
 ### Projects
 
 **`Commercial`**
-- **Omega** (KGNS) — Full production platform for a browser-based narrative RPG. 
+- **Omega** — Full production platform for a browser-based narrative RPG. 
   React 19 + Node.js + PostgreSQL, Przelewy24 payments, OAuth 2.0, RS256 JWT, 
   Elm game engine integrated via typed port messaging system.
 
-- **Aga-runtime** (KGNS) — Frontend for an AI agent runtime platform. Real-time 
+- **Aga-runtime** — Frontend for an AI agent runtime platform. Real-time 
   LLM chat interface, visual finite state machine editor (React Flow), embedded 
   MDX docs. React 19 + Redux Toolkit.
 
