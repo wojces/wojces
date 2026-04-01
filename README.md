@@ -67,7 +67,7 @@ Udemy certificates:
   MDX docs. React 19 + Redux Toolkit.
 
 **`Personal`**
-- **[OxyTimer](https://github.com/wojces/oxytimer)** — Real-time rescue operations 
+- **[OxyTimer](http://13.51.52.111/)** — Real-time rescue operations 
   tracker for firefighters. Monitors air pressure, projects safe exit times, 
   generates PDF mission reports. React 18 + Node.js + MySQL + MongoDB.
   
