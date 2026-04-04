@@ -2,16 +2,8 @@
 
 **`Fullstack Developer (React & Node.js)`**
 
-I build web applications from the UI to the database. I have 2+ years of commercial 
-experience — I independently delivered a full production platform for a browser-based 
-narrative RPG (React 19, Express.js, PostgreSQL) with Przelewy24 payment integration, 
-OAuth 2.0, RS256 JWT authentication, and a compiled Elm game engine integrated via a 
-typed port messaging system. I'm comfortable owning the full deployment stack: VPS, 
-Nginx, process management, and GitHub-based deployments.
 
-I delivered the platform mentioned above and developed the frontend for an AI agent runtime, including a visual finite state machine editor (React Flow) and embedded MDX documentation. <br />
-I built OxyTimer — a real-time rescue operations tracker for firefighters (React + Node.js, MySQL + MongoDB).<br/>
-I explored workflow automation with n8n.
+Fullstack Developer with over 2 years of experience building comprehensive web applications. I have a solid knowledge of React for frontend development and the ability to build REST APIs using Node.js and databases such as PostgreSQL. I can also effectively leverage AI tools like Claude Code to support my day-to-day development work.
 
 Currently building a personal project in Next.js (App Router, PostgreSQL, Prisma) — 
 a fullstack platform for an English tutor with blog, newsletter, contact form, and admin 
