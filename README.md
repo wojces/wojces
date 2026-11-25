@@ -59,11 +59,11 @@ Udemy certificates:
   MDX docs. React 19 + Redux Toolkit.
 
 **`Personal`**
-- **[OxyTimer](http://13.51.52.111/)** — Real-time rescue operations 
+- **OxyTimer** — Real-time rescue operations 
   tracker for firefighters. Monitors air pressure, projects safe exit times, 
   generates PDF mission reports. React 18 + Node.js + MySQL + MongoDB.
   
-- **[Szamba](https://szamba.tojest.dev/)** — Fleet management & route optimization system for a waste 
+- **Szamba** — Fleet management & route optimization system for a waste 
   collection company. Automatic order assignment across vehicles based on location + OSRM routing, interactive 
   Leaflet maps, drag-drop stop reordering, dual-role auth (admin/driver). 
   React 19 + Node.js + PostgreSQL. *(built with Claude Code)*
